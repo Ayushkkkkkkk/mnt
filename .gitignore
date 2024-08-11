@@ -1,0 +1,13 @@
+/go/
+/.cache/
+/.cargo/
+/.local/
+/.mongodb/
+/.npm/
+/.nvm/
+/.oh-my-zsh/
+/.poshthemes/
+/.rustup/
+/.ssh/
+/snap/
+
